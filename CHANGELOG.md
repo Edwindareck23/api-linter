@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.70.0](https://github.com/googleapis/api-linter/compare/v1.69.2...v1.70.0) (2025-06-26)
+
+
+### Features
+
+* **integration-tests:** add test harness for cli invocation ([#1493](https://github.com/googleapis/api-linter/issues/1493)) ([35be28f](https://github.com/googleapis/api-linter/commit/35be28f922581bff1f8ad6d2bb9289f6c57e2657))
+
 ## [1.69.2](https://github.com/googleapis/api-linter/compare/v1.69.1...v1.69.2) (2025-02-20)
 
 
